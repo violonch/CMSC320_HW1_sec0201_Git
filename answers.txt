@@ -9,3 +9,7 @@ Answer: Politics for polls and to draw conclusions about elections
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps both branches but adds a commit that combines the two branches, whereas rebase just adds the input branch onto your current branch. Merge keeps full history but rebase is cleaner
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning SQL and pandas and other Python libraries

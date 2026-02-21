@@ -5,3 +5,7 @@ Answer: Fast, has everything you need, and everybody uses it
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Politics for polls and to draw conclusions about elections
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps both branches but adds a commit that combines the two branches, whereas rebase just adds the input branch onto your current branch. Merge keeps full history but rebase is cleaner
